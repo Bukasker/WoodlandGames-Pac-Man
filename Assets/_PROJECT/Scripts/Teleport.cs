@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Teleport : MonoBehaviour
 {
+    [Header("Out of the Teleport")]
     [SerializeField] private Transform _outTeleportTranform;
 
     private GameObject _player;

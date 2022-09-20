@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8547618C-851F-5F0A-ECF9-419B4D10E4C2}</ProjectGuid>
+    <ProjectGuid>{6EB79D27-7A88-3A0D-EE81-F1763CD20884}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,9 +67,9 @@
     <Compile Include="Assets\_PROJECT\Scripts\Seed.cs" />
     <Compile Include="Assets\_PROJECT\Scripts\Teleport.cs" />
     <Compile Include="Assets\_PROJECT\Scripts\EnemyController.cs" />
+    <Compile Include="Assets\_PROJECT\Scripts\EnemyAttack.cs" />
     <Compile Include="Assets\_PROJECT\Scripts\GameLogic.cs" />
     <Compile Include="Assets\_PROJECT\Scripts\IgnoreColision.cs" />
-    <Compile Include="Assets\_PROJECT\Scripts\EnemyAttack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
